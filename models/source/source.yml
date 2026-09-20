@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw
+    database: SNOW
+    schema: STAGING
+
+    tables:
+      - name: hosts
+      - name: bookings
+      - name: listings
+      
