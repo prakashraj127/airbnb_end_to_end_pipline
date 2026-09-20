@@ -1,5 +1,5 @@
 
-# 🏠 Airbnb End-to-End Data Engineering Project
+#  Airbnb End-to-End Project
 
 ## 📋 **Project Overview**
 
